@@ -1,0 +1,33 @@
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.exe.config
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.exe
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.pdb
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.AssemblyReference.cache
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.Form1.resources
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.Properties.Resources.resources
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.GenerateResource.cache
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.CoreCompileInputs.cache
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.exe
+C:\Users\dinet\OneDrive\Desktop\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.pdb
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.exe.config
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.exe
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.pdb
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.AssemblyReference.cache
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.SuggestedBindingRedirects.cache
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.Form1.resources
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.Properties.Resources.resources
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.GenerateResource.cache
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.CoreCompileInputs.cache
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.exe
+D:\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.pdb
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.exe.config
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.exe
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\bin\Debug\Electricitybill2.pdb
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.AssemblyReference.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.SuggestedBindingRedirects.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.Form1.resources
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.Properties.Resources.resources
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.GenerateResource.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.csproj.CoreCompileInputs.cache
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.exe
+D:\NIBM UNI\DSE\practicals\visual studio practicals\windows forms\Electricitybill2\Electricitybill2\obj\Debug\Electricitybill2.pdb

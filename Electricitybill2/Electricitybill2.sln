@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electricitybill2", "Electricitybill2\Electricitybill2.csproj", "{15E670B7-5D86-45B7-A8D0-BB36C224EEE5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DataCalculator", "DataCalculator\DataCalculator.vdproj", "{BBBAC849-4706-4338-8E51-8E5584F88C38}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Datacalculator 1.0.1", "Datacalculator 1.0.1\Datacalculator 1.0.1.vdproj", "{612DA488-F256-464F-AFD4-760F952E3464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15E670B7-5D86-45B7-A8D0-BB36C224EEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E670B7-5D86-45B7-A8D0-BB36C224EEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E670B7-5D86-45B7-A8D0-BB36C224EEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E670B7-5D86-45B7-A8D0-BB36C224EEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBAC849-4706-4338-8E51-8E5584F88C38}.Debug|Any CPU.ActiveCfg = Debug
+		{BBBAC849-4706-4338-8E51-8E5584F88C38}.Release|Any CPU.ActiveCfg = Release
+		{612DA488-F256-464F-AFD4-760F952E3464}.Debug|Any CPU.ActiveCfg = Debug
+		{612DA488-F256-464F-AFD4-760F952E3464}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AD00095-81B4-48D5-9D5F-5462B442EA1F}
+	EndGlobalSection
+EndGlobal
